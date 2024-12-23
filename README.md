@@ -1,6 +1,7 @@
 
-![RC_car_controller](https://github.com/user-attachments/assets/85825f66-8340-4acf-9021-41086181fc1d)
 
+
+![RC_car_controller](https://github.com/user-attachments/assets/a41261f8-ef42-4ea1-90c1-73c8714a017f)
 
 
 
